@@ -43,7 +43,7 @@ Without centralized reporting, identifying operational inefficiencies becomes di
 ## Dashboard Page 2 – Key Insights & Analysis
 
 <p align="center">
-<img src="Key%20Takeaways.png" width="900">
+<img src="Key%20Insights%20%26%20Analysis.png" width="900">
 </p>
 
 ---
@@ -51,9 +51,8 @@ Without centralized reporting, identifying operational inefficiencies becomes di
 ## Dashboard Page 3 – Consolidated Emergency Room View
 
 <p align="center">
-<img src="Consolidated%20View.png" width="900">
+<img src="Consolidated%20Emergency%20Room%20View.png" width="900">
 </p>
-
 ---
 
 # KPI Summary
