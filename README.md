@@ -1,6 +1,6 @@
 <h1 align="center">Hospital Emergency Room Dashboard – Power BI Project</h1>
 
-🏥 Interactive Healthcare Analytics Dashboard built using Power BI to analyze emergency room patient flow, waiting times, departmental referrals, and demographic patterns.
+Interactive Healthcare Analytics Dashboard built using Power BI to analyze emergency room patient flow, waiting times, departmental referrals, and demographic patterns.
 
 ---
 
@@ -53,6 +53,7 @@ Without centralized reporting, identifying operational inefficiencies becomes di
 <p align="center">
 <img src="Consolidated%20Emergency%20Room%20View.png" width="900">
 </p>
+
 ---
 
 # KPI Summary
